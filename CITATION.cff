@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code, transfer entropy implementation, E/I-categorized connectivity estimation procedure, dataset structure, or any modified version of this repository, please cite the following paper."
+authors:
+  - family-names: Shimono
+    given-names: Masanori
+title: "NetworkEstimate_WithEICateg: Transfer entropy and E/I-categorized connectivity estimation for cortical microconnectome analysis"
+type: software
+version: "1.0.0"
+date-released: 2026-04-25
+url: "https://github.com/ShimonoMLab/NetworkEstimate_WithEICateg"
+keywords:
+  - transfer entropy
+  - sorted local transfer entropy
+  - cortical microconnectome
+  - excitatory inhibitory categorization
+  - computational neuroscience
+  - MATLAB
+  - CUDA
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Kajiwara
+      given-names: Motoki
+    - family-names: Nomura
+      given-names: Ritsuki
+    - family-names: Goetze
+      given-names: Felix
+    - family-names: Kawabata
+      given-names: Masanori
+    - family-names: Isomura
+      given-names: Yoshikazu
+    - family-names: Akutsu
+      given-names: Tatsuya
+    - family-names: Shimono
+      given-names: Masanori
+  title: "Inhibitory neurons exhibit high controlling ability in the cortical microconnectome"
+  journal: "PLOS Computational Biology"
+  year: 2021
+  volume: 17
+  issue: 4
+  doi: 10.1371/journal.pcbi.1008846
