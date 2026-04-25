@@ -2,9 +2,15 @@
 
 GPU-accelerated transfer entropy and sorted local transfer entropy analysis for estimating directed excitatory and inhibitory interactions in neuronal spike-train data.
 
-This repository provides MATLAB/CUDA code associated with the following peer-reviewed article:
+This repository provides MATLAB/CUDA code primarily associated with the following peer-reviewed article:
 
 **Kajiwara, M., Nomura, R., Goetze, F., Kawabata, M., Isomura, Y., Akutsu, T., & Shimono, M. (2021). _Inhibitory neurons exhibit high controlling ability in the cortical microconnectome_. PLOS Computational Biology, 17(4), e1008846. https://doi.org/10.1371/journal.pcbi.1008846**
+
+This repository is also related to the following whole-brain cortical microconnectome study:
+
+**Matsuda, K., Shirakami, A., Nakajima, R., Akutsu, T., & Shimono, M. (2023). _Whole-Brain Evaluation of Cortical Microconnectomes_. eNeuro, 10(10), ENEURO.0094-23.2023. https://doi.org/10.1523/ENEURO.0094-23.2023**
+
+The related eNeuro study extends cortical microconnectome analysis toward whole-brain evaluation across cortical region groups and examines regional nonuniformity in cortical functional microconnectomes.
 
 ## Overview
 
