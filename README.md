@@ -194,9 +194,7 @@ For the scientific method, results, analysis framework, and interpretation, plea
 
 If this repository is archived on Zenodo, please also cite the Zenodo software release when referring specifically to the archived software implementation.
 
-**Kajiwara, M., Nomura, R., Goetze, F., Kawabata, M., Isomura, Y., Akutsu, T., & Shimono, M. (2026). _NetworkEstimate_WithEICateg: GPU-Accelerated Transfer Entropy and Sorted Local Transfer Entropy Analysis for Excitatory and Inhibitory Neuronal Interactions_. Zenodo. https://doi.org/10.5281/zenodo.xxxxxxxx**
-
-Replace `10.5281/zenodo.xxxxxxxx` with the actual Zenodo DOI after creating the GitHub release and Zenodo archive.
+**Kajiwara, M., Nomura, R., Goetze, F., Kawabata, M., Isomura, Y., Akutsu, T., & Shimono, M. (2026). _NetworkEstimate_WithEICateg: GPU-Accelerated Transfer Entropy and Sorted Local Transfer Entropy Analysis for Excitatory and Inhibitory Neuronal Interactions_. Zenodo. [https://doi.org/10.5281/zenodo.xxxxxxxx**](https://doi.org/10.5281/zenodo.19763243)
 
 ### Short citation request
 
